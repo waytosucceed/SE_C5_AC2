@@ -1,0 +1,434 @@
+[
+  {
+    "questionNo": "Q1",
+    "heading": "Constant Addition in Numbers",
+    "question": "Find the missing term in the series:<br> 7, 12, 17, ? , 27",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "24"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "heading": "Constant Addition in Numbers",
+    "question": "Find the next term in the series:<br> 145, 157, 169, 181, 193, __.",
+    "options": [
+      "200",
+      "201",
+      "203",
+      "205"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q3",
+    "heading": "Constant Addition in Numbers",
+    "question": "Find the wrong term in the following series:<br> -163, -146, -128, -112, -95.",
+    "options": [
+      "-146",
+      "-128",
+      "-112",
+      "-95"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4",
+    "heading": "Constant Subtraction in Numbers",
+    "question": "What is the wrong term in the series:<br> 201, 190, 179, 168, 156, 146?",
+    "options": [
+      "156",
+      "146",
+      "190",
+      "179"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5",
+    "heading": "Constant Subtraction in Numbers",
+    "question": "Find the missing term in the series:<br> 31, 14, -3, ? , -37.",
+    "options": [
+      "-5",
+      "-11",
+      "-20",
+      "-23"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6",
+    "heading": "Constant Subtraction in Numbers",
+    "question": "Complete the following Series by adding the last term:<br> -11, -18, -25, -32, -39, __.",
+    "options": [
+      "-46",
+      "-47",
+      "-48",
+      "-49"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7",
+    "heading": "Addition in Increasing Order",
+    "question": "What is the next number in this sequence:<br> 1, 7, 14, 22, 31 …?",
+    "options": [
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q8",
+    "heading": "Addition in Increasing Order",
+    "question": "Missing term in the following series is __? Series:<br> -15, -18, -20, -21, __, -20",
+    "options": [
+      "-21",
+      "-20",
+      "-18",
+      "-22"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9",
+    "heading": "Addition in Increasing Order",
+    "question": "Incorrect term in the following series is ___? Series:<br> -4, -5, -4, -4, -2.",
+    "options": [
+      "-5",
+      "first -4 from left",
+      "second -4 from left",
+      "-2"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10",
+    "heading": "Addition in Increasingly Increasing Order",
+    "question": "Complete the following Series by adding the last term:<br> 21, 25, 33, 49, __.",
+    "options": [
+      "58",
+      "65",
+      "81",
+      "86"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11",
+    "heading": "Addition in Increasingly Increasing Order",
+    "question": "Point out the incorrect term in the following series:<br> 5, 8, 15, 26, 50.",
+    "options": [
+      "5",
+      "8",
+      "26",
+      "15"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q12",
+    "heading": "Addition in Increasingly Increasing Order",
+    "question": "Find the missing term in the following series:<br> 12, __, 15, 19, 25.",
+    "options": [
+      "13",
+      "12",
+      "14",
+      "15"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13",
+    "heading": "Multiply by Numbers in Increasing Order",
+    "question": "Find the missing term in the series:<br> -3, -6 , -18 , ? , -360.",
+    "options": [
+      "-36",
+      "-45",
+      "-64",
+      "-72"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q14",
+    "heading": "Multiply by Numbers in Increasing Order",
+    "question": "What is the wrong term in the series:<br> 2, 6, 35, 324, 3888?",
+    "options": [
+      "6",
+      "35",
+      "324",
+      "3888"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15",
+    "heading": "Multiply by Numbers in Increasing Order",
+    "question": "Find the last term of the series:<br> 4, -12, 24, -24, __.",
+    "options": [
+      "0",
+      "24",
+      "-12",
+      "4"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16",
+    "heading": "Addition of Prime Numbers",
+    "question": "Find the missing term in the series:<br> 0, ? , 12 , 23 , 36.",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "11"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q17",
+    "heading": "Addition of Prime Numbers",
+    "question": "Complete the following series:<br> -3, 10, 27, 46, __.",
+    "options": [
+      "79",
+      "72",
+      "65",
+      "69"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q18",
+    "heading": "Addition of Prime Numbers",
+    "question": "Find the wrong term in the series:<br> -30, 1, 30, 67, 108.",
+    "options": [
+      "-30",
+      "1",
+      "30",
+      "67"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q19",
+    "heading": "Addition/Subtraction of Squares",
+    "question": "Find the incorrect term in the series :<br> -12, -3, 14, 38, 74.",
+    "options": [
+      "-3",
+      "38",
+      "14",
+      "74"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q20",
+    "heading": "Addition/Subtraction of Squares",
+    "question": "Find the missing term in the series:<br> -1, 24, 60, ? , 173.",
+    "options": [
+      "109",
+      "121",
+      "137",
+      "90"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q21",
+    "heading": "Addition/Subtraction of Squares",
+    "question": "Complete the following series:<br> 29, 20, 4, -21, __.",
+    "options": [
+      "-37",
+      "-47",
+      "-57",
+      "-67"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q22",
+    "heading": "Addition/Subtraction of Cubes",
+    "question": "Find the value of A in the given series:<br> -3, A, 32, 96, 221.",
+    "options": [
+      "A = 0",
+      "A = 5",
+      "A = 15",
+      "A = 25"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q23",
+    "heading": "Addition/Subtraction of Cubes",
+    "question": "Which term is incorrect in the given series:<br> 10, 11, 3, -24, -88.",
+    "options": [
+      "First term",
+      "Second term",
+      "Third term",
+      "Fourth term"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q24",
+    "heading": "Addition/Subtraction of Cubes",
+    "question": "Complete the following series:<br> -37, -10, 54, 179, __.",
+    "options": [
+      "204",
+      "206",
+      "304",
+      "395"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q25",
+    "heading": "Two/Three Series Going Together",
+    "question": "Which term is incorrect in the given series:<br><img width='70%' src='./assests/images/11.jpg'>",
+    "options": [
+      "7",
+      "15",
+      "13",
+      "10"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q26",
+    "heading": "Two/Three Series Going Together",
+    "question": "Complete the following series:<br><img width='70%' src='./assests/images/12.jpg'>",
+    "options": [
+      "11",
+      "18",
+      "25",
+      "36"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q27",
+    "heading": "Two/Three Series Going Together",
+    "question": "Find the missing number from the series:<br> 3, 5, 6, 8, ?, 11, 12, 14, 15, 17.",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q28",
+    "heading": "Series of Prime Numbers Only",
+    "question": "What is the numerical value of A in the following series:<br> 31, 37, 41, 43, 47, 53, A, 61.",
+    "options": [
+      "A = 56",
+      "A = 57",
+      "A = 59",
+      "A = 60"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q29",
+    "heading": "Series of Prime Numbers Only",
+    "question": "The last two terms of the following series are :<br> 11, 17, 23, 31, __, __.",
+    "options": [
+      "41, 43",
+      "43, 47",
+      "43, 47",
+      "41, 47"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q30",
+    "heading": "Series of Prime Numbers Only",
+    "question": "Which term is incorrect in the given series: <br> 53, 59, 61, 67, 71, 77, 79, 83.",
+    "options": [
+      "67",
+      "61",
+      "77",
+      "79"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q31",
+    "heading": "Addition/Subtraction of Constant Numbers in Perfect Squares",
+    "question": "Find the last term in the following series :<br> 22, 33, 46, 61, __.",
+    "options": [
+      "68",
+      "72",
+      "75",
+      "78"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q32",
+    "heading": "Addition/Subtraction of Constant Numbers in Perfect Squares",
+    "question": "Which term is incorrect in the given series:<br> 9, 14, 22, 30, 41.",
+    "options": [
+      "14",
+      "22",
+      "30",
+      "41"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q33",
+    "heading": "Addition/Subtraction of Constant Numbers in Perfect Squares",
+    "question": "Find the missing number from the series:<br> 0, 11, 24, __, 56.",
+    "options": [
+      "39",
+      "42",
+      "47",
+      "49"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q34",
+    "heading": "Addition/Subtraction of Constant Numbers in Perfect Cubes",
+    "question": "Which term is incorrect in the given series:<br> 3, 10, 29, 65, 127.",
+    "options": [
+      "29",
+      "65",
+      "127",
+      "3"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q35",
+    "heading": "Addition/Subtraction of Constant Numbers in Perfect Cubes",
+    "question": "Find the last term in the following series:<br> 54, 115, 206, 333, __.",
+    "options": [
+      "402",
+      "444",
+      "474",
+      "502"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q36",
+    "heading": "Addition/Subtraction of Constant Numbers in Perfect Cubes",
+    "question": "Find the missing number from the series:<br> 34, __, 132, 223, 350.",
+    "options": [
+      "71",
+      "77",
+      "79",
+      "99"
+    ],
+    "correct": 0
+  }
+]
